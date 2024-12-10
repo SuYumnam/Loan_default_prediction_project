@@ -19,7 +19,7 @@ This project use various machine learning techniques to predict the risk of loan
 ---
 ## **Introduction**
 
-The main goal of this project is to develop the best machine learning model to predict loan default risk. This analysis is important for loan service companies or institution to mitigate risks and improve efficiency in loan management.
+The main goal of this project is to develop the best machine learning model to predict loan default risk. This analysis is important for loan service companies or institution to mitigate risks and improve efficiency in loan management
 
 ---
 ## **Project Objectives**
